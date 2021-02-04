@@ -1,4 +1,4 @@
-## Using pretrained model VGG16 to implement cat and dog classifier
+Using pretrained model VGG16 to implement cat and dog classifier
 
 IDE : colab
 toolkit: pytorch
